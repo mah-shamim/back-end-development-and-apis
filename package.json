@@ -11,6 +11,7 @@
 	"license": "MIT",
   "version": "1.2.0",
 	"dependencies": {
+    "package-name": "version",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
