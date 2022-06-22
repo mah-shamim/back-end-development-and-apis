@@ -1,2 +1,2 @@
 # Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+[![Run on Repl.it](https://repl.it/badge/github/mah-shamim/back-end-development-and-apis)](https://repl.it/github/mah-shamim/back-end-development-and-apis)
